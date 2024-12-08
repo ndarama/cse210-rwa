@@ -33,7 +33,7 @@ public class Scripture
         return Words.All(word => word.IsHidden);
     }
 
-    // Get the scripture text with hidden words
+    // Get the scripture textwith hidden words
     public string GetDisplayText()
     {
         return $"{Reference}\n{string.Join(" ", Words.Select(word => word.GetDisplayText()))}";
