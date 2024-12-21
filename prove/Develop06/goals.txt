@@ -1,0 +1,4 @@
+0
+SimpleGoal,Kwiga,Study,100,False
+EternalGoal,Gusenga,Pray,250
+ChecklistGoal,Gukina,Sports,50,3,0,100
